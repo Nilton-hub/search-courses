@@ -1,4 +1,4 @@
-#!/user/bin/env php
+#!/usr/bin/env php
 <?php
 use GuzzleHttp\Client;
 use Symfony\Component\DomCrawler\Crawler;

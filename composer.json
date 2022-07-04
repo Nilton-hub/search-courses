@@ -24,6 +24,9 @@
         "classmap": [
             "./Test.php",
             "./qqr/TestNew.php"
+        ],
+        "files": [
+            "./src/functions.php"
         ]
     },
     "require-dev": {
