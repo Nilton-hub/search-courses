@@ -1,5 +1,5 @@
 {
-    "name": "niltonduarte/search-alura-courses",
+    "name": "NiltonDuarte/search-alura-courses",
     "description": "Um pacote que busca cusrsos na alura",
     "type": "library",
     "require": {
